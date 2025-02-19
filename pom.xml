@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.duarte</groupId>
-	<artifactId>desafio-todolist</artifactId>
+	<artifactId>To-do-list</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>desafio-todolist</name>
 	<description>Demo project for Spring Boot</description>
